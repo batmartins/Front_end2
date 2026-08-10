@@ -18,8 +18,6 @@ R:O painel do Stripe Dashboard é um exemplo real de software com uma interface 
 5 - Qual a diferença entre UX e UI? Exemplifique a diferença.
 R: UX vs. UI: UX cuida da estrutura e de como o produto funciona; UI (User Interface) cuida da parte visual e estética (cores, botões e ícones).
 
-<img width="1835" height="901" alt="Captura de tela 2026-08-04 160347" src="https://github.com/user-attachments/assets/9e6e71d5-1212-4101-be50-6d12744a167b" />
-
 UX/UI na prática
 
 1 – Interface mais simplificada com paleta de cores bem definida.
